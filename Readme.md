@@ -44,4 +44,4 @@ This version include feature not in the released game in the asset store version
 
 **Documentation is still not up to date in the wiki. Updating is in progress**
 
-**Cloned and brnached for learning purposes**
+**Cloned and forked for learning purposes**
