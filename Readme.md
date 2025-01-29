@@ -43,3 +43,5 @@ This version include feature not in the released game in the asset store version
 - The use of the new Addressable System that replace the Assets Bundles.
 
 **Documentation is still not up to date in the wiki. Updating is in progress**
+
+**Cloned and brnached for learning purposes**
